@@ -57,8 +57,8 @@ Python 3.7 or above is recommended.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/PersonalAITrainer.git
-cd PersonalAITrainer
+git clone https://github.com/h3YaSh07Gv1/Personal-AI-Trainer.git
+cd Personal_AI_Trainer
 ```
 
 ### 2. Add Your Own Video (Optional)
