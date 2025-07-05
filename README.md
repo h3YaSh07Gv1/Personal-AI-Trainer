@@ -1,18 +1,10 @@
 \# 💪 AI Personal Trainer for Bicep Curls
 
-
-
 This project is an \*\*AI-powered Personal Trainer\*\* that uses \*\*Pose Estimation\*\* to automatically count \*\*bicep curls\*\* in real-time using OpenCV and MediaPipe. It's ideal for monitoring workout form and repetition counts without manual input. This tool is especially helpful for fitness enthusiasts, developers learning pose estimation, and physiotherapy applications.
-
-
 
 ---
 
-
-
 \## 📌 Features
-
-
 
 \* 🎥 Real-time video processing with webcam or pre-recorded video
 
